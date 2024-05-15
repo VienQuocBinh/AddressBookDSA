@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1715797871 source:d:\workspace\c,c++\addressbookdsa\main.cpp
+	<iostream>
+	<string>
+	"address_book.h"
+
+1715797682 source:d:\workspace\c,c++\addressbookdsa\src\address_book.cpp
+	"address_book.h"
+	<iostream>
+	<string>
+	"record.h"
+	"llist.h"
+
+1715797694 d:\workspace\c,c++\addressbookdsa\include\address_book.h
+	<string>
+
+1715797745 d:\workspace\c,c++\addressbookdsa\include\record.h
+	<string>
+
+1715797719 d:\workspace\c,c++\addressbookdsa\include\llist.h
+	<string>
+	<record.h>
+	<iostream>
+
+1715797714 source:d:\workspace\c,c++\addressbookdsa\src\llist.cpp
+	"llist.h"
+	<fstream>
+	"record.h"
+	"llist.h"
+	"address_book.h"
+
+1715797871 source:d:\workspace\addressbookdsa\main.cpp
+	<iostream>
+	<string>
+	"address_book.h"
+
+1715797694 d:\workspace\addressbookdsa\include\address_book.h
+	<string>
+
+1715797682 source:d:\workspace\addressbookdsa\src\address_book.cpp
+	"address_book.h"
+	<iostream>
+	<string>
+	"record.h"
+	"llist.h"
+
+1715797745 d:\workspace\addressbookdsa\include\record.h
+	<string>
+
+1715797719 d:\workspace\addressbookdsa\include\llist.h
+	<string>
+	<record.h>
+	<iostream>
+
+1715797714 source:d:\workspace\addressbookdsa\src\llist.cpp
+	"llist.h"
+	<fstream>
+	"record.h"
+	"llist.h"
+	"address_book.h"
+
