@@ -1,9 +1,9 @@
 # AddressBookDSA
-# Introduction
+## Introduction
 This project is to implement the **Linked list** using C++.
-# IDE
+## IDE
   CodeBlocks
-# Main feature
+## Main feature
 1. Add a new record into the database.
 2. Print information about a record using the name as the key.
 3. Modify a record in the database using the name as the key.
